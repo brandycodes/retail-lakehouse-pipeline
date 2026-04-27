@@ -3,6 +3,9 @@
 End-to-end data engineering project implementing a modern **Medallion Architecture (Bronze → Silver → Gold)** using PySpark and Delta Lake in Databricks.
 
 ---
+## 📊 Dashboard Preview
+
+![Dashboard](dashboard.png)
 
 ## 🚀 Project Overview
 
